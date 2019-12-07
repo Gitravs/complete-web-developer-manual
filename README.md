@@ -50,11 +50,13 @@ Tags:
 *	`<body>`
 *	headings (`h1`, `h2`, `h3`, `h4`, `h5`, `h6`)
 *	paragraph `<p>`
+	*	`contenteditable` = `true`, `false`
 *	bold `<strong>`, italic `<em>`
 *	ordered list `<ol>`, unordered list `<ul>`, list item`<li>`
 *	break `<br>`, horizontal rule `<hr>`
 *	image `<img>` and attributes: `src`, `width`, `height`
 *	anchor `<a href="">`
+	
 
 Topics:
 *	Relative vs Absolute Path
@@ -84,6 +86,8 @@ Tags:
 	*	`multiple`
 *	comment `<!-- -->`
 *	`<div>` and `<span>`
+*	`<textarea>`
+*	`<iframe>`
 
 Semantic Elements
 *	`<header>`
