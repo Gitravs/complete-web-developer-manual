@@ -81,6 +81,7 @@ Tags:
 	*	`required`, `value`, `name`, `min`
 *	dropdown `<select>`
 	*	option `<option>`
+	*	`multiple`
 *	comment `<!-- -->`
 *	`<div>` and `<span>`
 
