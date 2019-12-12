@@ -149,10 +149,10 @@ Selectors:
 *	`#id`
 *	`*` (all elements)
 *	`element`
-*	`element, element`
-*	`element element`
-*	`element > element`
-*	`element + element`
+*	`element, element` เอาทั้งสอง [element] 
+*	`element element` เอา [element 2] ที่อยู่ใน [element 1]
+*	`element > element` เอา [element 2] ที่อยู่ใน [element 1] และต่อกันเท่านั้น *[element 1] เป็น parent [element 2]
+*	`element + element` เอา [element 2] ที่ต่อจาก [element 1]
 *	`v:hover`
 *	`:last-child`
 *	`:first-child`
