@@ -287,6 +287,111 @@ Free Design resources:
 ******************************************************************************************
 ## 12.	__DOM Manipulation__
 
+JAVASCRIPT TYPES
+-----------------
+1. Number 
+*	NaN คือ Non-a-Number เป็น Number 
+2. String
+*	\อะไรที่ตามหลังจะถูก ignore ใช้ในกรณี " there isn\' "
+*	10+"34" = 1034
+*	10-"7" = 3 เพราะว่า js เข้าใจว่าเรากำลังจะลบกัน
+*	"hello" - "bye" = NaN เพราะว่าใน js string สามารถทำ operation กันได้
+3. Boolean
+*	true + true = 2
+*	3 === 3 
+*	4 !=== 3
+4. Undefined
+5. Null
+*	<!-- 6. Symbol (new in ECMAScript 6) -->
+7. Object
+
+JAVASCRIPT COMPARISONS
+-----------------
+
+!==
+===
+>=
+<=
+>
+<
+
+JAVASCRIPT VARIABLES
+-----------------
+var
+<!-- let (new in ECMAScript 6)-->  
+<!-- const (new in ECMAScript 6)-->
+
+JAVASCRIPT CONDITIONALS
+-----------------
+if
+else
+else if
+<!-- ternary operator -->
+<!-- switch -->
+
+
+JAVASCRIPT LOGICAL OPERATORS
+-----------------
+&&
+||
+!
+
+JAVASCRIPT FUNCTIONS
+-----------------
+*	var a = function name() {} // function expression
+*	function name() {} //function declearation
+*	function () {} anonymous function
+*	return
+*	<!-- () => (new in ECMAScript 6) -->
+*	*	() = for execute function
+JAVASCRIPT DATA STRUCTURES
+-----------------
+Array
+Object
+
+JAVASCRIPT LOOPING
+-----------------
+for
+while
+do 
+forEach (new in ECMAScript 5) 
+
+
+JAVASCRIPT KEYWORDS
+-----------------
+break
+case
+catch
+class
+const
+continue
+debugger
+default
+delete
+do
+else
+export
+extends
+finally
+for
+function
+if
+import
+in
+instanceof
+new
+return
+super
+switch
+this
+throw
+try
+typeof
+var
+void
+while
+with
+yield
 
 
 Reference websites:
