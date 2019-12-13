@@ -392,31 +392,31 @@ Reference websites:
 ## 12.	__DOM Manipulation__
 
 DOM Selectors
-*getElementsByTagName
-*getElementsByClassName
-*getElementById
+*	getElementsByTagName
+*	getElementsByClassName
+*	getElementById
 
-*querySelector
-*querySelectorAll
+*	querySelector
+*	querySelectorAll
 
-*getAttribute
-*setAttribute
+*	getAttribute
+*	setAttribute
 
 Changing Styles
-*style.{property} //ok
+*	style.{property} //ok
 
-*className //best
-*classList //best
+*	className //best
+*	classList //best
 
-*classList.add
-*classList.remove
-*classList.toggle
+*	classList.add
+*	classList.remove
+*	classList.toggle
 
 Bonus
-*innerHTML //DANGEROUS
+*	innerHTML //DANGEROUS
 
 parentElement
-*children
+*	children
 
 *It is important to CACHE selectors in variables
 
