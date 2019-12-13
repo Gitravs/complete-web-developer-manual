@@ -301,12 +301,13 @@ JAVASCRIPT TYPES
 7. Object
 
 JAVASCRIPT COMPARISONS
-!==
-===
->=
-<=
->
-<
+
+*	!==
+*	===
+*	>=
+*	<=
+*	>
+*	<
 
 JAVASCRIPT VARIABLES
 var
