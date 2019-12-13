@@ -283,12 +283,7 @@ Free Design resources:
 ******************************************************************************************
 ## 11.	__Javascript__
 ******************************************************************************************
-
-******************************************************************************************
-## 12.	__DOM Manipulation__
-
 JAVASCRIPT TYPES
------------------
 1. Number 
 *	NaN คือ Non-a-Number เป็น Number 
 2. String
@@ -306,8 +301,6 @@ JAVASCRIPT TYPES
 7. Object
 
 JAVASCRIPT COMPARISONS
------------------
-
 !==
 ===
 >=
@@ -316,13 +309,11 @@ JAVASCRIPT COMPARISONS
 <
 
 JAVASCRIPT VARIABLES
------------------
 var
 <!-- let (new in ECMAScript 6)-->  
 <!-- const (new in ECMAScript 6)-->
 
 JAVASCRIPT CONDITIONALS
------------------
 if
 else
 else if
@@ -331,34 +322,30 @@ else if
 
 
 JAVASCRIPT LOGICAL OPERATORS
------------------
 &&
 ||
 !
 
 JAVASCRIPT FUNCTIONS
------------------
 *	var a = function name() {} // function expression
 *	function name() {} //function declearation
 *	function () {} anonymous function
 *	return
 *	<!-- () => (new in ECMAScript 6) -->
 *	*	() = for execute function
-JAVASCRIPT DATA STRUCTURES
------------------
+
+JS DATASTRUCTURE
 Array
 Object
 
-JAVASCRIPT LOOPING
------------------
+JS LOOPING
 for
 while
 do 
 forEach (new in ECMAScript 5) 
 
 
-JAVASCRIPT KEYWORDS
------------------
+JS KEYWORD
 break
 case
 catch
@@ -400,6 +387,10 @@ Reference websites:
 *	https://jquery.com/
 *	http://youmightnotneedjquery.com/
 *	https://babeljs.io/
+******************************************************************************************
+## 12.	__DOM Manipulation__
+
+
 
 ******************************************************************************************
 ## 13.	__Advanced Javascript__
